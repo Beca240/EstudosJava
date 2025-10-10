@@ -14,10 +14,7 @@ public class notaS{
 	else{
 
 	System.out.println("Reprovado!");
-	}
-
-
-
+		}
 
 	}
 }
